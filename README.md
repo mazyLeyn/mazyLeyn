@@ -15,7 +15,6 @@
 * 🚀 **Warden Browser** projesi üzerinde Android ve GeckoView tabanlı özel mobil tarayıcı deneyimi geliştiriyorum.
 * 🛠️ Kotlin, JavaScript/TypeScript ve modern web teknolojileriyle aktif olarak projeler üretiyorum.
 * 🎮 Bağımsız (indie) oyun mekanikleri ve araç geliştirme üzerine çalışıyorum.
-* 📅 Kişisel üretkenlik aracım **[Odak Defterim](https://github.com/odakdefterim/odakdefterim.github.io)**'i sürekli güncelliyorum.
 
 ---
 
