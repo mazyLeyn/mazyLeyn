@@ -37,9 +37,6 @@
 
 <div align="center">
 
-```text
-  ___               _            
- / _ \ _ __  _   _| | ___  _ __ 
-| | | | '_ \| | | | |/ _ \| '__|
-| |_| | | | | |_| | | (_) | |   
- \___/|_| |_|\__,_|_|\___/|_|
+![Onur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazyLeyn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+</div>
