@@ -15,8 +15,6 @@
 * 🤖 **Vibe Coding & AI-Assisted:** Yapay zeka araçlarını ve modern yönlendirme tekniklerini aktif olarak kullanarak hızlı, verimli ve yenilikçi projeler üretiyorum.
 * 🚀 **Warden Browser:** Android ve GeckoView tabanlı özel mobil tarayıcı projesi üzerine odaklanıyorum.
 * 🎮 **Indie Projeler:** Bağımsız oyun fikirleri, mekanik prototipleri ve pratik web araçları geliştiriyorum.
-* 📅 **[Odak Defterim](https://github.com/odakdefterim/odakdefterim.github.io):** Kişisel üretkenlik ve planlama platformumu sürekli güncelliyorum.
-
 ---
 
 ### 🛠️ Teknolojiler & Yöntemler
