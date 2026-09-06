@@ -11,13 +11,13 @@
 
 ---
 
-### 👨‍💻 Hakkımda
-* 🤖 **Vibe Coding & AI-Assisted:** Yapay zeka araçlarını ve modern yönlendirme tekniklerini aktif olarak kullanarak hızlı, verimli ve yenilikçi projeler üretiyorum.
-* 🚀 **Warden Browser:** Android ve GeckoView tabanlı özel mobil tarayıcı projesi üzerine odaklanıyorum.
-* 🎮 **Indie Projeler:** Bağımsız oyun fikirleri, mekanik prototipleri ve pratik web araçları geliştiriyorum.
+###  Hakkımda
+*  **Vibe Coding & AI-Assisted:** Yapay zeka araçlarını ve modern yönlendirme tekniklerini aktif olarak kullanarak hızlı, verimli ve yenilikçi projeler üretiyorum.
+*  **Warden Browser:** Android ve GeckoView tabanlı özel mobil tarayıcı projesi üzerine odaklanıyorum.
+*  **Indie Projeler:** Bağımsız oyun fikirleri, mekanik prototipleri ve pratik web araçları geliştiriyorum.
 ---
 
-### 🛠️ Teknolojiler & Yöntemler
+###  Teknolojiler & Yöntemler
 
 | Alan | Araçlar & Teknolojiler |
 | :--- | :--- |
@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+###  Öne Çıkan Projeler
 
-* 🌐 **[Warden Browser](https://github.com/Darkstone-Studio/WardenBrowser)** — GeckoView motoru kullanılarak geliştirilen Android tarayıcı.
-* 📅 **[Odak Defterim](https://github.com/odakdefterim/odakdefterim.github.io)** — Web tabanlı takvim ve günlük planlama platformu.
+*  **[Warden Browser](https://github.com/Darkstone-Studio/WardenBrowser)** — GeckoView motoru kullanılarak geliştirilen Android tarayıcı.
+*  **[Odak Defterim](https://github.com/odakdefterim/odakdefterim.github.io)** — Web tabanlı takvim ve günlük planlama platformu.
