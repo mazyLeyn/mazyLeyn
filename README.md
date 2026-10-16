@@ -30,4 +30,5 @@
 ###  Öne Çıkan Projeler
 
 *  **[Warden Browser](https://github.com/Darkstone-Studio/WardenBrowser)** — GeckoView motoru kullanılarak geliştirilen Android tarayıcı.
+*  **[Warden Chat](https://github.com/Darkstone-Studio/WardenChat)** — Gizlilik odaklı mesajlaşma uygulaması.
 *  **[Odak Defterim](https://github.com/odakdefterim/odakdefterim.github.io)** — Web tabanlı takvim ve günlük planlama platformu.
