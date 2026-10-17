@@ -13,7 +13,7 @@
 
 ###  Hakkımda
 *  **Vibe Coding & AI-Assisted:** Yapay zeka araçlarını ve modern yönlendirme tekniklerini aktif olarak kullanarak hızlı, verimli ve yenilikçi projeler üretiyorum.
-*  **Warden Browser:** Android ve GeckoView tabanlı özel mobil tarayıcı projesi üzerine odaklanıyorum.
+*  **Aktif Odak:** Android tabanlı mobil uygulama projeleri üzerine odaklanıyorum.
 *  **Indie Projeler:** Bağımsız oyun fikirleri, mekanik prototipleri ve pratik web araçları geliştiriyorum.
 ---
 
