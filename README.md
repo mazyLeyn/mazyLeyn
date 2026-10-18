@@ -5,7 +5,6 @@
 **Vibe Coding • Mobil Mimariler (GeckoView / Kotlin) • Web & Indie Oyunlar**
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-mazyLeyn-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/mazyLeyn)
-[![GitHub Repos](https://img.shields.io/github/stars/mazyLeyn?style=for-the-badge&color=00B4D8&label=Stars)](https://github.com/mazyLeyn?tab=repositories)
 
 </div>
 
